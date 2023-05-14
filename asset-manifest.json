@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/twl_praktikum5/static/css/main.91b55d56.css",
+    "main.js": "/twl_praktikum5/static/js/main.e113c740.js",
+    "static/js/787.ca108b45.chunk.js": "/twl_praktikum5/static/js/787.ca108b45.chunk.js",
+    "index.html": "/twl_praktikum5/index.html",
+    "main.91b55d56.css.map": "/twl_praktikum5/static/css/main.91b55d56.css.map",
+    "main.e113c740.js.map": "/twl_praktikum5/static/js/main.e113c740.js.map",
+    "787.ca108b45.chunk.js.map": "/twl_praktikum5/static/js/787.ca108b45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91b55d56.css",
+    "static/js/main.e113c740.js"
+  ]
+}
